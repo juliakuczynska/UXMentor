@@ -3,7 +3,6 @@
 
 **UXMentor** to inteligentny, interaktywny asystent, który wspiera projektantów, startupy i zespoły produktowe w podejmowaniu lepszych decyzji projektowych.  
 Pomaga zarówno w analizie istniejących interfejsów, jak i w tworzeniu nowych koncepcji - szybko, świadomie i z myślą o realnych użytkownikach.
-![image](https://github.com/user-attachments/assets/7200f18d-4ae6-4036-b60e-2b35f98f8845)
 
 ---
 
@@ -26,9 +25,9 @@ Wgraj zrzut ekranu interfejsu, a UXMentor:
 - rozpozna kluczowe elementy wizualne,
 - oceni układ z perspektywy wybranej grupy użytkowników,
 - zaproponuje konkretne poprawki i usprawnienia.
-![image](https://github.com/user-attachments/assets/86091a69-3512-4e3f-a47b-0454310842d1)
 
-
+![image](https://github.com/user-attachments/assets/e3cb7353-ceb9-48d2-b18c-3f2ecb635ea7)
+![image](https://github.com/user-attachments/assets/1b532c04-ab15-435a-86cd-ad5385a36ecf)
 
 ### 📐 2. Tworzenie koncepcji interfejsu
 Nie wiesz, jak zacząć projekt? Opisz, co chcesz stworzyć, a UXMentor:
@@ -36,24 +35,14 @@ Nie wiesz, jak zacząć projekt? Opisz, co chcesz stworzyć, a UXMentor:
 - wygeneruje prosty wireframe HTML + CSS (do dalszego rozwijania),
 - doda kontekstowe wskazówki UX.
 
-![image](https://github.com/user-attachments/assets/47977810-2550-408d-ba61-093354f6d66f)
-![image](https://github.com/user-attachments/assets/02951760-37f1-40a1-9e37-3eacfb16ad8b)
-
+![image](https://github.com/user-attachments/assets/30de3bd1-c392-435e-bd88-20669f692224)
+![image](https://github.com/user-attachments/assets/a9bbfd2b-7f5a-471f-b905-6b00f2e5c3ca)
 
 
 ### 💬 3. Porozmawiaj z UXMentorem
 Zadaj pytanie o UX, skonsultuj wątpliwości, przetestuj pomysły.  
 Asystent odpowiada w czasie rzeczywistym, wspierając Cię wiedzą i doświadczeniem.
 ![image](https://github.com/user-attachments/assets/16620ed1-462c-469b-84c4-f859bc6fefb8)
-
----
-
-## 🛠 Technologia
-
-- **Streamlit** – intuicyjny frontend aplikacji
-- **Google Gemini 1.5 Flash** – analiza obrazu, generowanie treści, rozmowa
-- **Agno** – framework agentowy do tworzenia modularnych AI
-- **Python** – backend logiki i przetwarzania
 
 ---
 
